@@ -35,13 +35,15 @@ Salbon Sustain is a full-stack e-commerce platform dedicated to promoting and se
 ---
 ## Run the App
 ### Run frontend
+```
 cd frontend
 npm run dev
-
+```
 ### Run backend (in a separate terminal)
+```
 cd backend
 node server.js
-
+```
 ---
 ## 🌱 Community Impact
 This project promotes eco-sustainability by encouraging the use of responsibly sourced Sal forest products while supporting local communities and sustainable commerce.
