@@ -33,15 +33,25 @@ Salbon Sustain is a full-stack e-commerce platform dedicated to promoting and se
 
 
 ---
-## Run the App
+## 🚀 Run the App
+
+
+### Clone the repository
+```
+git clone https://github.com/raimadey2003/SalbonSustain.git
+cd SalbonSustain
+```
+
 ### Run frontend
 ```
 cd frontend
+npm install
 npm run dev
 ```
 ### Run backend (in a separate terminal)
 ```
 cd backend
+npm install
 node server.js
 ```
 ---
